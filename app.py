@@ -1,6 +1,6 @@
 import turtle
 
-sheddy = turtle.turtle()
+sheddy = turtle.Turtle()
 
 sheddy.forward(100)
 
