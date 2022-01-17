@@ -2,7 +2,7 @@
 An overview of Turtle Graphics with python
 
 NOTE:
-when writting a program that involes 'turtle', don't name your file turtle.py, because when importing it will import the file instead of the packages.
+when writting a program that involes 'turtle', don't name your file turtle.py, because when importing it will import the file instead of the library.
 
 #the begin.fill() and end.fill() functions are used to cloud the are with the color
 #you cound wrap each square  with begin() and end() fill or wrap them in one begin() and end() fill
