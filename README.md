@@ -8,5 +8,5 @@ when writting a program that involes 'turtle', don't name your file turtle.py, b
 #you cound wrap each square  with begin() and end() fill or wrap them in one begin() and end() fill
 #the penup() and pendown() function will  help break out of the first square.
 
-#added flower and star shapes 
+#added flower and star shapes. 
 
