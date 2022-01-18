@@ -21,7 +21,7 @@ def sheddy(draw, size):
             draw.left(216)
         star.end_fill()
 
-sheddy(star, 360) #pass in the const variable and the value of the size 
+sheddy(star, 360) #pass in the const variable and the value of the size. 
 
 
 
